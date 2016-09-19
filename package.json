@@ -1,0 +1,19 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "Jack and Laura node rest app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackckenna/nodeREST.git"
+  },
+  "author": "Jack Kenna, Laura Salivonaite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackckenna/nodeREST/issues"
+  },
+  "homepage": "https://github.com/jackckenna/nodeREST#readme"
+}
